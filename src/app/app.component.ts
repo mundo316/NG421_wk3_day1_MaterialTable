@@ -26,6 +26,7 @@ vehicleList: IVehicleList[] = [
   domestic: false,
   sold: 98322,
 }
+
 ]
 
   title = 'MaterialTable';
