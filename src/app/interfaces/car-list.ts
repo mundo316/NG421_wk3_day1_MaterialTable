@@ -1,8 +1,8 @@
-export interface CarList {
-    make: "";
-    model: "";
-    domestic: boolean;
-    sold: number;
+export interface IVehicleList {
+    make: string;
+    model: string;
+    domestic: boolean,
+    sold: number,
 }
 
 
